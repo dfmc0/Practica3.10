@@ -1,0 +1,59 @@
+/* Pagina inicio */
+body.inicio{
+    background-color: black;
+}
+img.Escudo{
+    float: left;
+}
+img.Bandera{
+    float: right;
+}
+h1.titulo{
+    background-color: orange;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    color: orange;
+}
+
+div.Ubicacion{
+    text-align: center;
+    display: contents flex;
+}
+div.Productos{
+    text-align: center;
+    display: contents flex;
+}
+div.Plantilla{
+    text-align: center;
+    display: contents flex;
+}
+
+h1.Pie{
+    background-color: orange;
+    font-style:italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/* Plantilla */
+h3 {
+    background-color: black;
+    color: orange;
+    text-align: center;
+}
+div.Porteros{
+    display: inline-block;
+}
+p{
+    font-weight: bold;
+}

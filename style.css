@@ -56,6 +56,25 @@ h1.extra{
     font-style: italic;
 }
 
+article.form{
+    text-align: center;
+    background-color: beige;
+    border-style: dashed;
+}
+div.form{
+    text-align: left;
+    display:inline-block;
+}
+
+div.fimagen{
+    text-align: right;
+    display:inline-block;
+}
+
+span.extra{
+    background-color: beige;
+}
+
 
 
 

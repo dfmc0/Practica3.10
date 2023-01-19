@@ -2,6 +2,13 @@
 body.inicio{
     background-color: black;
 }
+nav.enlaces{
+    background-color: whitesmoke;
+    
+}
+div.enlaces{
+    text-align: center;
+}
 img.Escudo{
     float: left;
 }
@@ -38,8 +45,16 @@ h1.Pie{
     text-align: center;
 }
 
-
-
+/* Contacto y taquilla */
+body.extra{
+    background-color: orange;
+}
+h1.extra{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
 
 
 
